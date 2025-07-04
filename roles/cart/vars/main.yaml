@@ -1,2 +1,2 @@
-REDIS_HOST: redis.sree84s.site
-CATALOGUE_HOST: catalogue.sree84s.site
+REDIS_HOST: redis-{{ env }}.sree84s.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.sree84s.site

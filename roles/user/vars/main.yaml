@@ -1,2 +1,2 @@
-REDIS_HOST: redis.sree84s.site
-MONGODB_HOST: mongodb.sree84s.site
+REDIS_HOST: redis-{{ env }}.sree84s.site
+MONGODB_HOST: mongodb-{{ env }}.sree84s.site
