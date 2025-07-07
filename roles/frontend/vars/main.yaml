@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.sree84s.site
-USER_HOST: user.sree84s.site
-CART_HOST: cart.sree84s.site
-SHIPPING_HOST: shipping.sree84s.site
-PAYMENT_HOST: payment.sree84s.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.sree84s.site
+USER_HOST: user.backend-{{ env }}.sree84s.site
+CART_HOST: cart.backend-{{ env }}.sree84s.site
+SHIPPING_HOST: shipping.backend-{{ env }}.sree84s.site
+PAYMENT_HOST: payment.backend-{{ env }}.sree84s.site
